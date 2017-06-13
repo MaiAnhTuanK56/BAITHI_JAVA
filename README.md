@@ -18,6 +18,7 @@
 * Ứng dụng mặc định ở chế độ *bình thường*.
 * Chế độ *bình thường* khi chơi nhạc, nhạc sẽ tự động next sang bài tiếp theo, khi next đến bài cuối cùng và chơi hết nhạc sẽ hiển thị thông báo *Hết nhạc không thể next...*.
 * Chế độ *ngẫu nhiên* khi chơi nhạc, nhạc sẽ tự động next ngẫu nhiên không trùng lặp bài hát, khi next ngẫu nhiên không trùng lặp hết tất cả các bài hát thì sẽ bắt đầu ngẫu nhiên không trùng lặp lại từ đầu.
+* Khi đang ở chế độ *ngẫu nhiên* để chuyển về chế độ bình thường thì nhấn vào nút *ngẫu nhiên*, thì bài hát sẽ được chơi lại và chuyển về chế độ *bình thường*.
 #### `3. Chức năng Play và Chức năng Pause`
 * Khi chưa chọn bài hát thì sẽ yêu cầu chọn bài hát.
 * Khi nhạc đang được chơi, nhấn nút *Play* sẽ chuyển thành nút *Pause* và có hiệu ứng xoay tròn.
@@ -32,3 +33,6 @@
 #### `6. Chức năng Forward`
 * Chức năng này thực hiện trên thanh seekbar, cho phép nhấn, kéo, thả trên thanh seekbar, khi nhấn hoắc kéo, thả nhạc sẽ được chơi ngay tại vị trí được nhấn hay thả.
 * Ở cả 2 chế độ chức năng không thay đổi.
+#### `Chú ý`
+Để chạy chương trình trên máy ảo bằng Eclipse ADT thì phải có DDMS>=50000ms (Window->Preferences->Android->DDMS>=50000ms)
+
