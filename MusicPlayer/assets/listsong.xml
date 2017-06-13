@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<music>
+    <song>
+        <id>01</id>
+        <title>Someone Like You</title>
+        <singer>Adele</singer>
+        <duration>4:47</duration>
+        <icon>adele</icon>
+    </song>
+    <song>
+        <id>02</id>
+        <title>Stranger In Moscow</title>
+        <singer>Michael Jackson</singer>
+        <duration>5:23</duration>
+        <icon>mj</icon>
+    </song>
+    <song>
+        <id>03</id>
+        <title>Tìm Lại Bầu Trời</title>
+        <singer>Tuấn Hưng</singer>
+        <duration>5:28</duration>
+        <icon>tuanhung</icon>
+    </song>
+    <song>
+        <id>04</id>
+        <title>Chờ Ngày Mưa Tan</title>
+        <singer>Noo Phước Thịnh</singer>
+        <duration>3:32</duration>
+        <icon>phuocthinh</icon>
+    </song>
+    <song>
+        <id>05</id>
+        <title>Học Cách Đi Một Mình</title>
+        <singer>Lương Bích Hữu</singer>
+        <duration>3:42</duration>
+        <icon>luongbichhuu</icon>
+    </song>
+    <song>
+        <id>06</id>
+        <title>Chị Tôi</title>
+        <singer>Bằng Kiều</singer>
+        <duration>5:35</duration>
+        <icon>bangkieu</icon>
+    </song>
+    <song>
+        <id>07</id>
+        <title>Somebody's Me</title>
+        <singer>Enrique Iglesias</singer>
+        <duration>3:58</duration>
+        <icon>iglesias</icon>
+    </song>
+        <song>
+        <id>08</id>
+        <title>Lạc Trôi</title>
+        <singer>Sơn Tùng M-TP</singer>
+        <duration>3:53</duration>
+        <icon>sontung</icon>
+    </song>
+</music>
